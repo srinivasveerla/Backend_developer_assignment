@@ -4,8 +4,8 @@ also it is assumed that only one operator is enclosed inside brackets'''
 #Steps used in this solution:
 #1-Convert the string into more programming friendly form like removing double character(&&) into single characters(+)
 #2-Sorting these operands and operators in postfix form
-#3-Combing these individual operands into dictionary form
-#4-Joinng them back in dictionary form
+#3-Combining these individual operands into dictionary form
+#4-Joining them back in dictionary form
 import sys
 import json
 str = input("Enter string")  # Reading input string
