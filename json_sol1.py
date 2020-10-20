@@ -124,5 +124,5 @@ final_dict["query"]=pre_str[0]
 x=json.dumps(final_dict, indent=1)
 print(x)
 
-inp=input("Press any key to exit")
+inp=input("Press Enter to exit")
 
